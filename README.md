@@ -30,3 +30,6 @@ https://metriweather.netlify.app
 AbdulQadir — MetriSolution
 
 “Innovative Your Digital Future.”
+
+
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/c1157dd6-182e-447a-a9cc-7053c4eeda95" />
