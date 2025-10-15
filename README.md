@@ -23,7 +23,7 @@ WeatherAPI.com integration
 
 🚀 Live Demo
 
-(Add your deployed link here)
+https://metriweather.netlify.app
 
 🧑‍💻 Developed By
 
