@@ -17,8 +17,11 @@ Custom weather icons and clean UI
 🔧 Tech Stack
 
 HTML5
+
 CSS3 
+
 JavaScript
+
 WeatherAPI.com integration
 
 🚀 Live Demo
